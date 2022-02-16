@@ -172,15 +172,6 @@
     prop-types "^15.7.1"
     react-lifecycles-compat "^3.0.4"
 
-"@hig/avatar@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@hig/avatar/-/avatar-2.0.0.tgz#2c1eb5898b44098ee0bfb1d8d471ec88665a8c6e"
-  integrity sha512-uQeUAvJ5YZo4/ZHMtfltU0Byn1pLOCLgEc5o7UwOOZ1G33rM+SCiMq0hSh/YfT/yVxK1hFLJ8VPkILkZKz0hzg==
-  dependencies:
-    "@hig/utils" "^0.4.1"
-    prop-types "^15.7.1"
-    react-lifecycles-compat "^3.0.4"
-
 "@hig/avatar@^1.4.2":
   version "1.4.2"
   resolved "https://registry.yarnpkg.com/@hig/avatar/-/avatar-1.4.2.tgz#cbbcf9baea3a2409b6df23df908d51943b17a7fb"
@@ -6840,8 +6831,9 @@ hyphenate-style-name@^1.0.1, hyphenate-style-name@^1.0.2:
   resolved "https://registry.yarnpkg.com/hyphenate-style-name/-/hyphenate-style-name-1.0.2.tgz#31160a36930adaf1fc04c6074f7eb41465d4ec4b"
 
 i@0.3.x:
-  version "0.3.6"
-  resolved "https://registry.yarnpkg.com/i/-/i-0.3.6.tgz#d96c92732076f072711b6b10fd7d4f65ad8ee23d"
+  version "0.3.7"
+  resolved "https://registry.yarnpkg.com/i/-/i-0.3.7.tgz#2a7437a923d59c14b17243dc63a549af24d85799"
+  integrity sha512-FYz4wlXgkQwIPqhzC5TdNMLSE5+GS1IIDJZY/1ZiEPCT2S3COUVZeT5OW4BmW4r5LHLQuOosSwsvnroG9GR59Q==
 
 iconv-lite@0.4.19:
   version "0.4.19"
